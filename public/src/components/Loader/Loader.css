@@ -1,0 +1,14 @@
+.loader-wrapper {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #282c34;
+    opacity: 0.6;
+    z-index: 9999;
+}
